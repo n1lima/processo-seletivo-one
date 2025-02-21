@@ -12,4 +12,4 @@ Os exercícios envolvem:
 
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/n1lima/one-selecao-grupo8.git
+   git clone https://github.com/n1lima/processo-seletivo-one.git
